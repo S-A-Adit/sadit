@@ -1,1 +1,5 @@
-Project 10 for DATA STRUCTURES.
+Adit Syed Afnan
+Data Structures CSCI-230
+Project 10
+5/6/2025 (current date)
+GitHub Proof of Concept
